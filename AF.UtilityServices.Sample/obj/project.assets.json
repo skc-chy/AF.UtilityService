@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AF.UtilityServices/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Architecture.Core.Foundation.UtilityServices.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Architecture.Core.Foundation.UtilityServices.dll": {}
+        },
+        "contentFiles": {
+          "contentFiles/any/net6.0/Icon.ico": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AF.UtilityServices/2.0.0": {
+      "sha512": "NcxCt1AWPJNC+sjib+a2RNl9zkji43eY5MDcaMGyR7XBG7f3WOQkjjKsnF3dQY7S9eigBVJBxGTZRLGWgU74fQ==",
+      "type": "package",
+      "path": "af.utilityservices/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "128.png",
+        "README.md",
+        "af.utilityservices.2.0.0.nupkg.sha512",
+        "af.utilityservices.nuspec",
+        "content/Icon.ico",
+        "contentFiles/any/net6.0/Icon.ico",
+        "lib/net6.0/Architecture.Core.Foundation.UtilityServices.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AF.UtilityServices >= 2.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SukantaChoudhurySIDG\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Work\\DotNetCoreFramework\\SampleApplication\\AF.UtilityServices.Sample\\AF.UtilityServices.Sample\\AF.UtilityServices.Sample.csproj",
+      "projectName": "AF.UtilityServices.Sample",
+      "projectPath": "C:\\Work\\DotNetCoreFramework\\SampleApplication\\AF.UtilityServices.Sample\\AF.UtilityServices.Sample\\AF.UtilityServices.Sample.csproj",
+      "packagesPath": "C:\\Users\\SukantaChoudhurySIDG\\.nuget\\packages\\",
+      "outputPath": "C:\\Work\\DotNetCoreFramework\\SampleApplication\\AF.UtilityServices.Sample\\AF.UtilityServices.Sample\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\SukantaChoudhurySIDG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "AF.UtilityServices": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\bin\Debug\net6.0\AF.UtilityServices.Sample.exe
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\bin\Debug\net6.0\AF.UtilityServices.Sample.deps.json
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\bin\Debug\net6.0\AF.UtilityServices.Sample.runtimeconfig.json
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\bin\Debug\net6.0\AF.UtilityServices.Sample.dll
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\bin\Debug\net6.0\AF.UtilityServices.Sample.pdb
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\obj\Debug\net6.0\AF.UtilityServices.Sample.csproj.AssemblyReference.cache
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\obj\Debug\net6.0\AF.UtilityServices.Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\obj\Debug\net6.0\AF.UtilityServices.Sample.AssemblyInfoInputs.cache
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\obj\Debug\net6.0\AF.UtilityServices.Sample.AssemblyInfo.cs
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\obj\Debug\net6.0\AF.UtilityServices.Sample.csproj.CoreCompileInputs.cache
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\obj\Debug\net6.0\AF.UtilityServices.Sample.dll
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\obj\Debug\net6.0\refint\AF.UtilityServices.Sample.dll
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\obj\Debug\net6.0\AF.UtilityServices.Sample.pdb
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\obj\Debug\net6.0\AF.UtilityServices.Sample.genruntimeconfig.cache
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\obj\Debug\net6.0\ref\AF.UtilityServices.Sample.dll
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\obj\Debug\net6.0\AF.UtilityServices.Sample.csproj.CopyComplete
+C:\Work\DotNetCoreFramework\SampleApplication\AF.UtilityServices.Sample\AF.UtilityServices.Sample\bin\Debug\net6.0\Architecture.Core.Foundation.UtilityServices.dll

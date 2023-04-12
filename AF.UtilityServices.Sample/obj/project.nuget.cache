@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wX9wpaP1wundzeHtKurjvMGO6Xd7ur076mSNW48pL7/gJFeed4kUyOTABiViJfubOXGcf3jNVVc7Oa2GRg/MZA==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\DotNetCoreFramework\\SampleApplication\\AF.UtilityServices.Sample\\AF.UtilityServices.Sample\\AF.UtilityServices.Sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SukantaChoudhurySIDG\\.nuget\\packages\\af.utilityservices\\2.0.0\\af.utilityservices.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
