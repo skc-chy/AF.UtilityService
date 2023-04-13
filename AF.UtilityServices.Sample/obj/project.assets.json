@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "AF.UtilityServices/2.0.0": {
+      "AF.UtilityServices/2.0.1": {
         "type": "package",
         "compile": {
           "lib/net6.0/Architecture.Core.Foundation.UtilityServices.dll": {}
@@ -11,6 +11,11 @@
           "lib/net6.0/Architecture.Core.Foundation.UtilityServices.dll": {}
         },
         "contentFiles": {
+          "contentFiles/any/net6.0/128.png": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
           "contentFiles/any/net6.0/Icon.ico": {
             "buildAction": "Content",
             "codeLanguage": "any",
@@ -21,18 +26,20 @@
     }
   },
   "libraries": {
-    "AF.UtilityServices/2.0.0": {
-      "sha512": "NcxCt1AWPJNC+sjib+a2RNl9zkji43eY5MDcaMGyR7XBG7f3WOQkjjKsnF3dQY7S9eigBVJBxGTZRLGWgU74fQ==",
+    "AF.UtilityServices/2.0.1": {
+      "sha512": "6niY6Pq7o6CfUnemWkKXBKezW7loMFB4XD0FBT8SUvPd89V5wEUS3qXiEKr72tlMkiNWbyTmI+ya+vVIajUhLw==",
       "type": "package",
-      "path": "af.utilityservices/2.0.0",
+      "path": "af.utilityservices/2.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "128.png",
         "README.md",
-        "af.utilityservices.2.0.0.nupkg.sha512",
+        "af.utilityservices.2.0.1.nupkg.sha512",
         "af.utilityservices.nuspec",
+        "content/128.png",
         "content/Icon.ico",
+        "contentFiles/any/net6.0/128.png",
         "contentFiles/any/net6.0/Icon.ico",
         "lib/net6.0/Architecture.Core.Foundation.UtilityServices.dll"
       ]
@@ -40,7 +47,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "AF.UtilityServices >= 2.0.0"
+      "AF.UtilityServices >= 2.0.1"
     ]
   },
   "packageFolders": {
@@ -90,7 +97,7 @@
         "dependencies": {
           "AF.UtilityServices": {
             "target": "Package",
-            "version": "[2.0.0, )"
+            "version": "[2.0.1, )"
           }
         },
         "imports": [

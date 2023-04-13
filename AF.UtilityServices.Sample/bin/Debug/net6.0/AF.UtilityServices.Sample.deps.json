@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v6.0": {
       "AF.UtilityServices.Sample/1.0.0": {
         "dependencies": {
-          "AF.UtilityServices": "2.0.0"
+          "AF.UtilityServices": "2.0.1"
         },
         "runtime": {
           "AF.UtilityServices.Sample.dll": {}
         }
       },
-      "AF.UtilityServices/2.0.0": {
+      "AF.UtilityServices/2.0.1": {
         "runtime": {
           "lib/net6.0/Architecture.Core.Foundation.UtilityServices.dll": {
             "assemblyVersion": "1.0.4.0",
@@ -30,12 +30,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AF.UtilityServices/2.0.0": {
+    "AF.UtilityServices/2.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-NcxCt1AWPJNC+sjib+a2RNl9zkji43eY5MDcaMGyR7XBG7f3WOQkjjKsnF3dQY7S9eigBVJBxGTZRLGWgU74fQ==",
-      "path": "af.utilityservices/2.0.0",
-      "hashPath": "af.utilityservices.2.0.0.nupkg.sha512"
+      "sha512": "sha512-6niY6Pq7o6CfUnemWkKXBKezW7loMFB4XD0FBT8SUvPd89V5wEUS3qXiEKr72tlMkiNWbyTmI+ya+vVIajUhLw==",
+      "path": "af.utilityservices/2.0.1",
+      "hashPath": "af.utilityservices.2.0.1.nupkg.sha512"
     }
   }
 }
