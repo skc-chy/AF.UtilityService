@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "AF.UtilityServices/2.0.1": {
+      "AF.UtilityServices/2.0.3": {
         "type": "package",
         "compile": {
           "lib/net6.0/Architecture.Core.Foundation.UtilityServices.dll": {}
@@ -26,16 +26,16 @@
     }
   },
   "libraries": {
-    "AF.UtilityServices/2.0.1": {
-      "sha512": "6niY6Pq7o6CfUnemWkKXBKezW7loMFB4XD0FBT8SUvPd89V5wEUS3qXiEKr72tlMkiNWbyTmI+ya+vVIajUhLw==",
+    "AF.UtilityServices/2.0.3": {
+      "sha512": "KAm3uTJCka//WQq/u5QIKQA8EN36SNf1r6xiS9B4Mbkrbt+yD1UeW+/7VgjNOBh2mkC0jLYBsFFp5OFidpAD1w==",
       "type": "package",
-      "path": "af.utilityservices/2.0.1",
+      "path": "af.utilityservices/2.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "128.png",
         "README.md",
-        "af.utilityservices.2.0.1.nupkg.sha512",
+        "af.utilityservices.2.0.3.nupkg.sha512",
         "af.utilityservices.nuspec",
         "content/128.png",
         "content/Icon.ico",
@@ -47,7 +47,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "AF.UtilityServices >= 2.0.1"
+      "AF.UtilityServices >= 2.0.3"
     ]
   },
   "packageFolders": {
@@ -97,7 +97,7 @@
         "dependencies": {
           "AF.UtilityServices": {
             "target": "Package",
-            "version": "[2.0.1, )"
+            "version": "[2.0.3, )"
           }
         },
         "imports": [

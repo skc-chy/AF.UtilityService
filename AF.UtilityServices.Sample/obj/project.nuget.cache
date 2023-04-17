@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fAzGUDK/D3kNxq8KjTad5Q009Lc0hDu4qNEeI24CB1kggGCARpJoWj09TEBmLm8lUr9cYLR1uK6J9cu/urJI+w==",
+  "dgSpecHash": "+Gw6yy0h6USg3Tzcc2ilrUJxtIK2RsBNtEFmqHma6cDlWizEW6gmATRPUpv8VchnhjvalhEPUMYpr6wFJmMRxQ==",
   "success": true,
   "projectFilePath": "C:\\Work\\DotNetCoreFramework\\SampleApplication\\AF.UtilityServices.Sample\\AF.UtilityServices.Sample\\AF.UtilityServices.Sample.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\SukantaChoudhurySIDG\\.nuget\\packages\\af.utilityservices\\2.0.1\\af.utilityservices.2.0.1.nupkg.sha512"
+    "C:\\Users\\SukantaChoudhurySIDG\\.nuget\\packages\\af.utilityservices\\2.0.3\\af.utilityservices.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
